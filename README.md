@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @davidkunio
 - 👀 I'm a quant working at a hedge fund
 - 🌱 I'll help you build an automated trading program
-- 📫 Find me on twitter under the same name
+- 📫 Find me on bluesky under the same name
